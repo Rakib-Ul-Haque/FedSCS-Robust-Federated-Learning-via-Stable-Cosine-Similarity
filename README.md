@@ -14,4 +14,6 @@ Date: 10/17/2025
 
 Cite as: R. Ul Haque and P. Markopoulos, "Robust Federated Learning via Stable Cosine Similarity", The International Carnahan Conference on Security Technology, 2025.
 
+🏆 This paper received the Best Paper Award at ICCST 2025.
+
 Datasets and weights repository: https://utsacloud-my.sharepoint.com/:f:/g/personal/rakibul_haque_utsa_edu/EtOQXtKbS_9CqjqY3CjCtlgB_pFeB56k9MfnNzy5fVZGHA?e=mzBLLK
